@@ -14,7 +14,7 @@ public class FlappyDemo extends ApplicationAdapter {
 	public static final int WIDTH=480;
 	public static final int HEIGHT=800;
 
-	public static final String TITLE="Flappy Demo";
+	public static final String TITLE="My Flappy Demo";
 
 	private GameStateManager gsm;
 	private SpriteBatch batch;
